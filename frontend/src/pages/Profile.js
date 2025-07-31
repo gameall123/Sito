@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import { FaUser, FaEnvelope, FaCalendar, FaGamepad, FaHeart, FaShoppingCart, FaCog } from 'react-icons/fa';
 import { useAuth } from '../contexts/AuthContext';
 import { useCart } from '../contexts/CartContext';
