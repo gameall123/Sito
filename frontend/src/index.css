@@ -40,7 +40,7 @@
   }
   
   .product-card {
-    @apply bg-bg-card border border-slate-700/50 rounded-2xl overflow-hidden shadow-2xl backdrop-blur-sm hover:border-modern-blue/40 hover:shadow-modern-blue/10 transition-all duration-300 group cursor-pointer;
+    @apply bg-bg-card border border-slate-700/50 rounded-2xl overflow-hidden shadow-2xl backdrop-blur-sm hover:border-modern-blue/40 hover:shadow-modern-blue/10 transition-all duration-300 cursor-pointer;
   }
   
   .text-modern-blue {
