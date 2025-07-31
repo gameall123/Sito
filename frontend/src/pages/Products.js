@@ -408,7 +408,7 @@ const Products = () => {
               {products.map((product, index) => (
                 <div 
                   key={product.id} 
-                  className="product-card hover-lift slide-up"
+                  className="product-card hover-lift slide-up group"
                   style={{ animationDelay: `${index * 0.1}s` }}
                 >
                   <div className="relative overflow-hidden">
